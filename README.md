@@ -24,8 +24,8 @@ Projede kullanılacak başlıca Python kütüphaneleri:
 
 - **pandas:** Veri toplama ve işleme  
 - **NumPy:** Sayısal hesaplamalar  
-- **matplotlib & seaborn:** Veri görselleştirme  
-- _(Opsiyonel)_ **Streamlit:** Web arayüzü geliştirmek için
+- **matplotlib :** Veri görselleştirme  
+- Flask:** Web arayüzü geliştirmek için
 
 ---
 
